@@ -1,0 +1,8 @@
+[theme="ViperDark"]:root{
+    --bgColor: #261B43;
+    --bgSecondaryColor: #211540;
+    --fgColor: #FAFAFE;
+    --fgTertiary: rgba(255,255,255,0.05);
+    --fgActiveColor: #FF86C7;
+    --fgActiveSecondaryColor: rgba(255,255,255,0.2);
+}
