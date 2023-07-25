@@ -203,7 +203,7 @@ void async function() {
 
 
     // Get Presets
-    let presets = await (await fetch("/presets.json")).json();
+    let presets = await (await fetch("presets.json")).json();
 
     let presetLoad = l => {
         GLOB.trigger("sampleRateChanged", l.samp);
