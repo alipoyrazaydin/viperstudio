@@ -36,12 +36,12 @@ div#viper-sidebar-content .presets { padding:10px; }
 #viper-content .error-bar { border:2px rgba(255,255,255,0.03) solid; padding:8px; }
 
 .dropdown{background-color:transparent;}
-.dropdown{border-color:rgba(255,255,255,0.03);border-width:2px;padding:4px;outline:none;font-family:CutesyKigi;}
+.dropdown{border-color:rgba(255,255,255,0.03);border-width:2px;padding:4px;outline:none;font-family:Poppins;}
 .dropdown>option{background-color:#231b43;}
 .dropdown>option:checked{background:#56418b;}
 
 .kitode-editor { flex-grow:1; margin:10px; border:2px rgba(255,255,255,0.03) solid; padding:10px; }
-textarea, pre *, code * { background:none; border:none; outline:none; font-family:'Space Mono'!important; font-size:14px!important; }
+textarea, pre *, code * { background:none; border:none; outline:none; font-family:'Space Mono'!important; }
 
 div.viper-preset { display:flex; flex-direction:column; padding:8px; border:2px rgba(255,255,255,0.03) solid; margin-bottom:10px; }
 div.viper-preset > div { display:flex; flex-direction:row; justify-content:space-between; }
