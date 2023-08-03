@@ -41,7 +41,7 @@ div#viper-sidebar-content .presets { padding:10px; }
 .dropdown>option:checked{background:#56418b;}
 
 .kitode-editor { flex-grow:1; margin:10px; border:2px rgba(255,255,255,0.03) solid; padding:10px; }
-textarea, pre *, code *, pre, code { background:none; border:none; outline:none; font-family:'Space Mono'!important; font-size:13px; }
+textarea, pre *, code *, pre, code { background:none; border:none; outline:none; font-family:'Space Mono'!important; font-size:13px!important; }
 
 div.viper-preset { display:flex; flex-direction:column; padding:8px; border:2px rgba(255,255,255,0.03) solid; margin-bottom:10px; }
 div.viper-preset > div { display:flex; flex-direction:row; justify-content:space-between; }
